@@ -1,4 +1,4 @@
-
+//Learned XHR(XMLHttpRequest) and github-api
         const btn = document.querySelector('button');
         const getName = document.querySelector('.take-name');
 
